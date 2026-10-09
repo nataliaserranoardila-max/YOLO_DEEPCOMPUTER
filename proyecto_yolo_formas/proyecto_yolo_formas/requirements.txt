@@ -1,0 +1,3 @@
+ultralytics>=8.1.0   # YOLOv8 (instala también PyTorch)
+opencv-python>=4.8   # cámara, dibujo y generación de imágenes
+numpy>=1.24

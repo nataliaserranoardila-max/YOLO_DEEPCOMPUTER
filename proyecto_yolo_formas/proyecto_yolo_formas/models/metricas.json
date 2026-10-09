@@ -1,0 +1,30 @@
+{
+  "map50": 0.9948,
+  "map50_95": 0.9614,
+  "precision": 0.9909,
+  "recall": 0.9909,
+  "accuracy_val": 0.9889,
+  "accuracy_por_clase": {
+    "circulo": 1.0,
+    "cuadrado": 0.9903,
+    "triangulo": 0.978
+  },
+  "por_clase": {
+    "circulo": {
+      "precision": 0.9968,
+      "recall": 1.0,
+      "map50": 0.995
+    },
+    "cuadrado": {
+      "precision": 0.9904,
+      "recall": 0.9946,
+      "map50": 0.995
+    },
+    "triangulo": {
+      "precision": 0.9854,
+      "recall": 0.978,
+      "map50": 0.9943
+    }
+  },
+  "figuras_val": 632
+}
